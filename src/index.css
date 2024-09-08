@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: blueviolet;
+  max-width: 600px;
+  margin: 0 auto;
+}
